@@ -4,4 +4,5 @@ title: "New Post"
 date: 2013-07-12 15:02
 comments: true
 categories: 
+content: "There will be some content"
 ---
